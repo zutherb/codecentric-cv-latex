@@ -1,9 +1,9 @@
 .idea
-cv.log
-cv.synctex.gz
-cv.aux
-cv.log
-cv.nlo
-cv.out
-cv.pdf
+*.log
+*.synctex.gz
+*.aux
+*.log
+*.nlo
+*.out
+*.pdf
 
