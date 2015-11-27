@@ -2,7 +2,7 @@
 cv.log
 cv.synctex.gz
 cv.aux
-cv.log
+*.log
 cv.nlo
 cv.out
 cv.pdf
