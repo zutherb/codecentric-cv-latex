@@ -1,9 +1,8 @@
 .idea
 .DS_Store
-cv.log
-cv.synctex.gz
-cv.aux
 *.log
+*.synctex.gz
+*.aux
 *.nlo
 *.out
 *.pdf
