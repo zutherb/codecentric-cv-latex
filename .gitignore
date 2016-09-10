@@ -6,4 +6,4 @@
 *.nlo
 *.out
 *.pdf
-
+.DS_Store
