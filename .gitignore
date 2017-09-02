@@ -7,3 +7,11 @@
 *.out
 *.pdf
 .DS_Store
+=======
+.DS_Store
+*.log
+*.synctex.gz
+*.aux
+*.nlo
+*.out
+*.pdf
